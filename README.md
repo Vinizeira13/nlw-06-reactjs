@@ -1,3 +1,9 @@
+> **Learning archive · Letmeask / NLW Together 2021**
+>
+> This is my study fork of [Rocketseat's original project](https://github.com/rocketseat-education/nlw-06-reactjs). It preserves the original implementation, artwork, documentation, and MIT license below. It is not an original product or an actively maintained starter. The React 17 / Firebase 8 / Create React App 4 / Node Sass 5 toolchain is historical and has not been revalidated against current runtimes.
+>
+> Explore my current work in AI systems and developer tools on [my profile](https://github.com/Vinizeira13).
+
 <p align="center">
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
